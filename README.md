@@ -14,8 +14,8 @@ Today i'm graduated 🎓 from Soy Henry's Bootcamp, which counts with 700hs of p
 ◽Back-End : Node.js | Express | 
 ◾DataBase: SEQUELIZE | PostgreSQL | 
 
-
-
+Aditional Tools
+◾Figma
 
 I would love to work in a space where people are constantly learning, because i'm looking to develop my abilities even further!
 
