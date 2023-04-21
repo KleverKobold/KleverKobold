@@ -10,7 +10,7 @@ Today i'm graduated 🎓 from Soy Henry's Bootcamp, which counts with 700hs of p
 💻Which technologies do I have worked with? 
 
 ◽Language: Javascript
-◾Front-End : React | Redux | Tailwind | CSS | 
+◾Front-End : React | Redux | Tailwind | CSS | Three.js
 ◽Back-End : Node.js | Express | 
 ◾DataBase: SEQUELIZE | PostgreSQL | 
 
