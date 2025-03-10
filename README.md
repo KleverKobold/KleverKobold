@@ -4,20 +4,22 @@ I'm Alejandro and I'm a Full Stack Web Developer Jr.
 
 💻📱I've started in the world of IT thanks to platforms as Udemy and freeCodeCamp.
 
-Today i'm graduated 🎓 from Soy Henry's Bootcamp, which counts with 700hs of practice and constant learning.
+I've graduated 🎓 from Soy Henry's Bootcamp, which counts with 700hs of practice and constant learning.
+
+I'm currently working as a Frontend Developer in IA  related Projects
 
 
 💻Which technologies do I have worked with? 
 
 ◽Language: Javascript
-◾Front-End : React | Redux | Tailwind | CSS | Three.js
+◾Front-End : React | Next.js | Redux | Zustand | Tailwind | CSS | Three.js
 ◽Back-End : Node.js | Express | 
 ◾DataBase: SEQUELIZE | PostgreSQL | 
 
 Aditional Tools
 ◾Figma
 
-I would love to work in a space where people are constantly learning, because i'm looking to develop my abilities even further!
+I love to work in a spaces where people are constantly learning, because i'm looking to develop my abilities even further!
 
 
 📫 How to reach me:
